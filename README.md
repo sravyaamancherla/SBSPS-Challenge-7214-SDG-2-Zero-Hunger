@@ -20,3 +20,5 @@
 ```
 https://public.tableau.com/app/profile/daripalli.aparna
 ```
+
+Conclusion: In this study, certain Data Analytics techniques and Machine Learning model were adopted to estimate crop price analysis with real-time data. Linear Regression is employed for discovering important information from the agricultural datasets. Using this real-time data and Machine Learning model we could predict the price of the crop at different regions of Telangana for different volumes. XG Boost Model is giving the highest accuracy of 99.9960 %, hence we will use XGBoost Model for prediction and is reliable.
